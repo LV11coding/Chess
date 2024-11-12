@@ -9,3 +9,8 @@ Version 2:
 -Changed grid from numbers to chars
 -Added rook (one color) with full movement
 -Added checks for collision of rook with other objects
+
+Version 3:
+-Added knight (one color) with full movement
+-Added checks for collision of knight with other objects
+-Changed UI to be more readable and understandable
