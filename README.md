@@ -19,3 +19,9 @@ Version 4:
 -Added bishop (one color) with full movement
 -Added checks for collision of bishop with other objects
 -Fixed bug with pawns overlapping
+
+Version 5:
+-Added queen (one color) with full movement
+-Added checks for collision of queen with other objects
+-Fixed pawn collision
+-Fixed pawn bug with pawns jumping over a piece on the first move
