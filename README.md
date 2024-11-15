@@ -25,3 +25,7 @@ Version 5:
 -Added checks for collision of queen with other objects
 -Fixed pawn collision
 -Fixed pawn bug with pawns jumping over a piece on the first move
+
+Version 6:
+-Added king (one color) with full movement
+-Added checks for collision of king with other objects
